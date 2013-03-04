@@ -1,0 +1,9 @@
+Appending new log entries to existing log file 'web.log'
+Started GET "/" for 127.0.0.1:48464 at 2013-03-03 20:26:41 -0600
+Rendered SOMETHING in 634000ns
+
+
+Started GET "/favicon.ico" for 127.0.0.1:48464 at 2013-03-03 20:26:41 -0600
+Rendered SOMETHING in 59000ns
+
+
